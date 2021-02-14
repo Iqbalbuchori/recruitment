@@ -1,4 +1,4 @@
-<b>Penilaian :</b>
+<b>Penilaian :</b><br>
 Login dan Register<br>
 Menggunakan Eloquent Model<br>
 merepresentasikan penggunaan relation belongsToMany<br>
